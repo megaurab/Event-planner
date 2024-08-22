@@ -7,11 +7,11 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="bg-black overflow-hidden">
+    <div className="bg-white overflow-hidden flex flex-col">
       <div>
         <Navbar />
       </div>
-      <div className="bg-black ">
+      <div className="bg-white ">
         <Hero />
       </div>
       <div>
