@@ -7,7 +7,7 @@ const EventList = () => {
         <h1 className='ml-[30px] italic'>Browsing Event in</h1>
         <h1 className='ml-[30px] italic'>Assam</h1>
       </div>
-      <div className='flex bg-white justify-start items-center h-[50px] overflow-x-scroll'>
+      <div className='flex bg-white justify-start items-center h-[50px] overflow-x-scroll scrollbar-hide'>
         <ul className='flex-shrink-0 flex justify-start items-center]'>
           <li className='ml-[30px] italic'>All</li>
           <li className='ml-[30px] italic'>For you</li>
